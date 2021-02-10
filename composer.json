@@ -20,7 +20,7 @@
         "drupal/core-project-message": "8.9.13",
         "drupal/core-recommended": "8.8.12",
         "drupal/core-vendor-hardening": "8.9.13",
-        "drupal/pathauto": "1.7",
+        "drupal/pathauto": "1.8.0",
         "drupal/token": "1.7",
         "drupal/webform": "5.9.0"
     },
