@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a2d34fba3b03081e37aea1b23389e26a",
+    "content-hash": "60a714ba7fc02e19acf54068dd9a8c49",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1065,7 +1065,7 @@
         },
         {
             "name": "drupal/core-vendor-hardening",
-            "version": "8.9.12",
+            "version": "8.9.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-vendor-hardening.git",
