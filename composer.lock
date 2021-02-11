@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "daa703074a44c1b2f2ceef3a6be5442a",
+    "content-hash": "09da94070ddb6237f46fd7dcd5430266",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -948,7 +948,7 @@
         },
         {
             "name": "drupal/core-project-message",
-            "version": "8.9.12",
+            "version": "8.9.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
