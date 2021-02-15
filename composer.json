@@ -16,13 +16,13 @@
     ],
     "require": {
         "composer/installers": "^1.2",
-        "drupal/core-composer-scaffold": "^8.8",
-        "drupal/core-project-message": "^8.8",
-        "drupal/core-recommended": "8.8.9",
-        "drupal/core-vendor-hardening": "^8.8",
-        "drupal/pathauto": "1.7",
-        "drupal/token": "1.7",
-        "drupal/webform": "5.9.0"
+        "drupal/core-composer-scaffold": "8.9.13",
+        "drupal/core-project-message": "8.9.13",
+        "drupal/core-recommended": "8.8.12",
+        "drupal/core-vendor-hardening": "8.9.13",
+        "drupal/pathauto": "1.8.0",
+        "drupal/token": "1.8.0",
+        "drupal/webform": "5.10.0"
     },
     "conflict": {
         "drupal/drupal": "*"
