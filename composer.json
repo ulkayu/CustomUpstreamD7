@@ -22,7 +22,13 @@
         "drupal/core-vendor-hardening": "^8.8",
         "drupal/pathauto": "1.7",
         "drupal/token": "1.7",
-        "drupal/webform": "5.9.0"
+        "drupal/webform": "5.9.0",
+        "drupal/ajax_comments": "1.x-dev#1f94e02",
+        "drupal/components": "2.0.0-beta3",
+        "drupal/node_revision_delete": "1.0.0-rc2",
+        "drupal/rabbit_hole": "1.0.0-beta7",
+        "drupal/taxonomy_import": "2.0.0-alpha2"
+
     },
     "conflict": {
         "drupal/drupal": "*"
