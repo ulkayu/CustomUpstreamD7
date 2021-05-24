@@ -22,6 +22,10 @@ composer remove 'drupal/entity_reference_revisions:1.x-dev#bcc55add'
 composer remove 'drupal/search_api_sorts:1.x-dev#ad046bb'
 composer remove 'drupal/search_autocomplete:1.x-dev#2464a02'
 
+composer require 'drupal/entity_reference_revisions:1.x-dev#bcc55add' 
+composer require 'drupal/search_api_sorts:1.x-dev#ad046bb'
+composer require 'drupal/search_autocomplete:1.x-dev#2464a02'
+
 # old versions
 # composer require 'drupal/asset_injector:2.4.0'
 # composer require 'drupal/webform:5.9.0'
