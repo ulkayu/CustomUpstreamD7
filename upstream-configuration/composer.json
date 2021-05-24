@@ -28,7 +28,7 @@
         "drupal/pathauto": "1.6",
         "drupal/entity_reference_revisions": "1.x-dev#bcc55add",
         "drupal/search_api_sorts": "1.x-dev#ad046bb",
-        "drupal/search_autocomplete": "1.x-dev#2464a02"
+        "drupal/search_autocomplete": "1.x-dev#bb05094c"
     },
     "require-dev": {
         "behat/behat": "3.*",
